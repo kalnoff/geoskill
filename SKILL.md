@@ -1,3 +1,8 @@
+---
+name: geo-optimizer
+description: GEO/AEO-аудит сайта (Generative / Answer Engine Optimization) — оценка 0-100 готовности сайта к нейропоиску (ChatGPT, Perplexity, Gemini, Claude, Google AI Overviews) по 8 категориям и 47 методам (Princeton KDD 2024), проверка robots.txt для ИИ-ботов, llms.txt, JSON-LD, цитируемости контента; генерация исправлений; проверка, цитируют ли нейросети бренд (geo citations). Требует CLI `geo` (pip install geo-optimizer-skill). Use when: GEO-аудит, AEO, видимость в нейронках, видимость в ChatGPT/Perplexity/нейропоиске, llms.txt, AI SEO, LLM SEO, цитируемость в ИИ, оптимизация под нейросети.
+---
+
 # GEO Optimizer
 
 > Make websites visible and citable by AI search engines (ChatGPT Search, Perplexity, Claude, Gemini AI Overviews). Implements the GEO audit framework plus a 47-method citability engine based on Princeton KDD 2024 research.
